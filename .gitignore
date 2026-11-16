@@ -1,0 +1,5 @@
+*.pdf
+*.bin
+*.sqlite3
+*.pickle
+.venv/
